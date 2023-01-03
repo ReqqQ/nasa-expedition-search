@@ -20,228 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2397ee93-b373-4744-9f63-cde3311a0c57" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Spacer/.babelrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Spacer/.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/.eslintignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/.eslintrc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Spacer/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/.postcssrc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Spacer/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/_mocha" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/_mocha-nightwatch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/_mocha-nightwatch.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/_mocha-nightwatch.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/_mocha.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/_mocha.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/acorn" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/acorn.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/acorn.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/ansi-html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/ansi-html.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/ansi-html.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/atob" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/atob.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/atob.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/autoprefixer-info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/autoprefixer-info.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/autoprefixer-info.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/babylon" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/babylon.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/babylon.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/build/build.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/build/check-versions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/build/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/build/utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/build/vue-loader.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/build/webpack.base.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/build/webpack.dev.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/build/webpack.prod.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/build/webpack.test.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/chromedriver" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/chromedriver.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/chromedriver.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/config/dev.env.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/config/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/config/prod.env.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/config/test.env.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/cross-env" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/cross-env-shell" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/cross-env-shell.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/cross-env-shell.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/cross-env.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/cross-env.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/cssesc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/cssesc.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/cssesc.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/csso" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/csso.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/csso.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/dateformat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/dateformat.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/dateformat.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/errno" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/errno.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/errno.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/escodegen" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/escodegen.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/escodegen.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/esgenerate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/esgenerate.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/esgenerate.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/eslint" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/eslint.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/eslint.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/esparse" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/esparse.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/esparse.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/esvalidate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/esvalidate.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/esvalidate.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/extract-zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/extract-zip.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/extract-zip.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/handlebars" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/handlebars.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/handlebars.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/he" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/he.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/he.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/html-minifier" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/html-minifier.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/html-minifier.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/import-local-fixture" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/import-local-fixture.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/import-local-fixture.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/internal-ip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/internal-ip.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/internal-ip.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/istanbul" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/istanbul.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/istanbul.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/js-yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/js-yaml.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/js-yaml.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/jsesc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/jsesc.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/jsesc.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/json5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/json5.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/json5.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/karma" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/karma.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/karma.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/loose-envify" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/loose-envify.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/loose-envify.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/miller-rabin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/miller-rabin.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/miller-rabin.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/mime" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/mime.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/mime.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/mkdirp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/mkdirp.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/mkdirp.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/mocha" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/mocha-nightwatch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/mocha-nightwatch.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/mocha-nightwatch.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/mocha.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/mocha.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/multicast-dns" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/multicast-dns.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/multicast-dns.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/nightwatch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/nightwatch.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/nightwatch.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/nopt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/nopt.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/nopt.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/npm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/npm-check" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/npm-check.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/npm-check.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/npm.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/npm.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/npx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/npx.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/npx.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/opener" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/opener.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/opener.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Spacer/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spacer/package-lock.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Spacer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Spacer/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/phantomjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/phantomjs.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/phantomjs.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/prettier" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/prettier.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/prettier.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/regjsparser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/regjsparser.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/regjsparser.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/rimraf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/rimraf.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/rimraf.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/selenium" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/selenium.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/selenium.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/semver" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/semver.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/semver.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/sha.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/sha.js.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/sha.js.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/shjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/shjs.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/shjs.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Spacer/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Spacer/src/components/HelloWorld.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Spacer/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Spacer/src/router/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/sshpk-conv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/sshpk-conv.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/sshpk-conv.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/sshpk-sign" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/sshpk-sign.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/sshpk-sign.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/sshpk-verify" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/sshpk-verify.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/sshpk-verify.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/static/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/strip-indent" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/strip-indent.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/strip-indent.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/svgo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/svgo.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/svgo.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/test/e2e/custom-assertions/elementCount.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/test/e2e/nightwatch.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/test/e2e/runner.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/test/e2e/specs/test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/test/unit/.eslintrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/test/unit/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/test/unit/karma.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/test/unit/specs/HelloWorld.spec.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/uglifyjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/uglifyjs.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/uglifyjs.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/uuid" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/uuid.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/uuid.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/webpack" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/webpack-bundle-analyzer" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/webpack-bundle-analyzer.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/webpack-bundle-analyzer.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/webpack-dev-server" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/webpack-dev-server.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/webpack-dev-server.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/webpack.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/webpack.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/which" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/which.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spacer/which.ps1" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -264,7 +45,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -276,11 +64,13 @@
       <option name="presentableId" value="Default" />
       <updated>1591473345797</updated>
       <workItem from="1591473346943" duration="25000" />
+      <workItem from="1672748720641" duration="3065000" />
+      <workItem from="1672752199888" duration="641000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -292,5 +82,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
